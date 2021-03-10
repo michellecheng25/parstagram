@@ -22,12 +22,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-- create an account 
-- view posts on timeline
-- sign in with the recently created account
-- choose a picture from album
-- write a caption
-- post picture and return to timeline
+(gif is 40 sec long)
 
-![ezgif com-video-to-gif(7)](https://user-images.githubusercontent.com/56702688/110584601-71f80580-813d-11eb-9900-3b0c52b07c73.gif)
+![ezgif com-video-to-gif(8)](https://user-images.githubusercontent.com/56702688/110585177-6eb14980-813e-11eb-8235-f9dd0b253c77.gif)
+
 
