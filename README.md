@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-- created account 
+- create an account 
 - view posts on timeline
 - sign in with the recently created account
 - choose a picture from album
