@@ -69,7 +69,7 @@
                     <connections>
                         <outlet property="passwordField" destination="aOp-l5-Dq1" id="b1T-WP-wPf"/>
                         <outlet property="usernameField" destination="N8w-15-equ" id="t7q-oY-yfY"/>
-                        <segue destination="t5J-fI-GCM" kind="presentation" identifier="loginSegue" id="L2b-Ww-2OV"/>
+                        <segue destination="t5J-fI-GCM" kind="presentation" identifier="loginSegue" modalPresentationStyle="fullScreen" id="L2b-Ww-2OV"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
@@ -81,7 +81,7 @@
             <objects>
                 <viewController id="TXn-NF-nlc" customClass="FeedViewController" customModule="parstagram" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="26B-P3-qy7">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" fixedFrame="YES" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="pjz-2B-T1V">
@@ -142,7 +142,7 @@
                     <navigationItem key="navigationItem" id="W4a-Yk-vi4">
                         <barButtonItem key="rightBarButtonItem" title="+" image="insta_camera_btn" id="QQP-B7-wBu">
                             <connections>
-                                <segue destination="8Mk-FF-Bjj" kind="presentation" id="F9H-dC-tcD"/>
+                                <segue destination="8Mk-FF-Bjj" kind="presentation" modalPresentationStyle="fullScreen" id="F9H-dC-tcD"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
@@ -159,7 +159,7 @@
             <objects>
                 <viewController id="8Mk-FF-Bjj" customClass="CameraViewController" customModule="parstagram" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="rUt-1D-kdp">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <imageView clipsSubviews="YES" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="image_placeholder" translatesAutoresizingMaskIntoConstraints="NO" id="nGS-ZC-Rdh">
@@ -208,7 +208,7 @@
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="t5J-fI-GCM" sceneMemberID="viewController">
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="jD8-52-YZD">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="56"/>
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
                     <nil name="viewControllers"/>
