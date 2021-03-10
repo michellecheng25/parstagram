@@ -23,4 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![ezgif com-video-to-gif(6)](https://user-images.githubusercontent.com/56702688/110583889-61935b00-813c-11eb-9a43-ce8e0ea2f7e2.gif)
+![ezgif com-video-to-gif(7)](https://user-images.githubusercontent.com/56702688/110584601-71f80580-813d-11eb-9900-3b0c52b07c73.gif)
+
