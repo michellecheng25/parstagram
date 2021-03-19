@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![ezgif com-video-to-gif(9)](https://user-images.githubusercontent.com/56702688/111841349-3941f400-88d4-11eb-9926-addb6eb7f61b.gif)
 
 
 Time spent: **4** hours spent in total
